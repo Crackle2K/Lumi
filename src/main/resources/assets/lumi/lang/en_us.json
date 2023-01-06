@@ -1,0 +1,10 @@
+{
+  "item.lumi.fornacite": "Fornacite",
+  "item.lumi.nova_orb": "Nova Orb",
+
+  "block.lumi.fornacite_block": "Block Of Fornacite",
+  "block.lumi.fornacite_ore": "Fornacite Ore",
+  "block.lumi.deepslate_fornacite_ore": "Deepslate Fornacite Ore",
+
+  "itemGroup.lumi.fornacite": "Lumi Test Tab"
+}

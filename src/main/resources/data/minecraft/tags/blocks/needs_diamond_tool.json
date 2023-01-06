@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "lumi:fornacite_block",
+    "lumi:fornacite_ore",
+    "lumi:deepslate_fornacite_ore"
+  ]
+}

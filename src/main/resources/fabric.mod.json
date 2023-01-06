@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "lumi",
+  "version": "${version}",
+
+  "name": "Lumi",
+  "description": "More Advancements, More Mobs, More Fun! Lumi Adds Additional Features That Simply Just Make The Minecraft Experience More Fun. Feel Free To Use It In Your Modpack!",
+  "authors": [
+    "Crackle"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT License",
+  "icon": "",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.crackle.lumi.Lumi"
+    ],
+    "client": [
+      "net.crackle.lumi.LumiClient"
+    ]
+  },
+  "mixins": [
+    "lumi.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

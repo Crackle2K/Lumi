@@ -1,0 +1,12 @@
+{
+  "type":"minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lumi:fornacite_block"
+    }
+  ],
+  "result": {
+    "item": "lumi:fornacite",
+    "count": 9
+  }
+}
